@@ -22,3 +22,6 @@ This repository contains a **LaTeX title page template** designed for students a
 
 ```bash
 git clone (https://github.com/GODXeiN/TU-Gabrovo-Latex-Template.git
+```
+2. Use overleaf
+   - Copy paste the code in main.tex to a blank overleaf project.
